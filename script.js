@@ -2,6 +2,7 @@ let btn = document.getElementById('new-quote');
 let quote = document.getElementById('quote');
 let person = document.getElementById('person');
 
+
 const quotes = [{
     quote:'i am ironman',
     person:'Tony stark'
